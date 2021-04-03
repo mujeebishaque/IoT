@@ -1,2 +1,3 @@
 # IoT
-IoT Assignments and Group projects.
+
+> Title: Unmanned marine life quality monitoring device.
