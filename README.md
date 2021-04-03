@@ -1,3 +1,1 @@
-# IoT
-
-> Title: Unmanned marine life quality monitoring device.
+# IoT - Unmanned marine life quality monitoring device.
